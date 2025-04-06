@@ -1,0 +1,39 @@
+body {
+    background-color: #a47dab;
+    color: white;
+    font-family: optima;
+    text-align: center;
+}
+.title {
+    text-align: center;
+    font-size: 50px;
+    background-color: pink;
+    padding: 20px;
+    border-radius: 10px;
+}
+.picture{
+    width: 20%;
+    height: 20%;
+    text-align: center;
+}
+.list, ol, li{
+    text-align: left;
+    font-size: 20px;
+    color:blueviolet !important;
+    background-color: #eacaf0;
+    width: 45%;
+    border-radius: 10px;
+    position: relative;
+    left: 26%;
+}
+figcaption{
+    font-size: 20px;
+    color: blueviolet !important;
+    background-color: #eacaf0;
+    width: 25%;
+    border-radius: 10px;
+    position: relative;
+    left: 37.5%;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
